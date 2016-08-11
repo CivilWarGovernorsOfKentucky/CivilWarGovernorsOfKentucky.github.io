@@ -1,0 +1,160 @@
+source,target,relationship
+Anne Levy,(Unknown German woman),Social
+Caroline Dennant,(Unknown husband of Caroline),Familial
+Henry Adams,5th Street Baptist Church,Economic
+Josephine Lynch,Anne Levy,Familial
+Willis Levy,Anne Levy,Familial
+Willis Levy,Anne Levy,Familial
+Caroline Dennant,Anne Levy,Social
+Josephine Lynch,Anne Levy,Social
+Anne Levy,Blanche Levy,Familial
+Anne Levy,Blanche Levy,Familial
+Anne Levy,Blanche Levy,Familial
+Anne Levy,Blanche Levy,Familial
+Willis Levy,Blanche Levy,Familial
+Willis Levy,Blanche Levy,Familial
+Willis Levy,Blanche Levy,Familial
+Willis Levy,Blanche Levy,Familial
+Willis Levy,Blanche Levy,Familial
+Caroline Dennant,Blanche Levy,Social
+Caroline Dennant,Blanche Levy,Social
+Caroline Dennant,Blanche Levy,Social
+Caroline Dennant,Blanche Levy,Social
+Caroline Dennant,Blanche Levy,Social
+Caroline Dennant,Blanche Levy,Social
+Dr Jenkins,Blanche Levy,Social
+Dr. Jenkins,Blanche Levy,Social
+Dr. Palmer,Blanche Levy,Social
+E P Neale,Caroline Dennant,Legal
+J. H. Price,Caroline Dennant,Legal
+John Sait,Caroline Dennant,Legal
+Joseph Griffith,Caroline Dennant,Legal
+L. A. Civill,Caroline Dennant,Legal
+R H Snyder,Caroline Dennant,Legal
+Samuel Ingrem,Caroline Dennant,Legal
+Thomas Schorch,Caroline Dennant,Legal
+W. G. Reasor,Caroline Dennant,Legal
+W. O. Gardner,Caroline Dennant,Legal
+Wm K Allen,Caroline Dennant,Legal
+A C Cross,Caroline Dennant,Political
+Burton Farmer,Caroline Dennant,Political
+Charles Junot,Caroline Dennant,Political
+E P Neale,Caroline Dennant,Political
+George W. Wharton,Caroline Dennant,Political
+Georges Jonas,Caroline Dennant,Political
+H C Thomas,Caroline Dennant,Political
+Henry C Russell,Caroline Dennant,Political
+J C Baird,Caroline Dennant,Political
+John G Enlow,Caroline Dennant,Political
+John G. Barret,Caroline Dennant,Political
+John H Williams,Caroline Dennant,Political
+John L. McKee,Caroline Dennant,Political
+John Sait,Caroline Dennant,Political
+Joseph Griffith,Caroline Dennant,Political
+L. A. Civill,Caroline Dennant,Political
+Phil Tomppert Jr,Caroline Dennant,Political
+R H Snyder,Caroline Dennant,Political
+Robt A Hamilton,Caroline Dennant,Political
+Samuel Ingrem,Caroline Dennant,Political
+Thomas Schorch,Caroline Dennant,Political
+W. G. Reasor,Caroline Dennant,Political
+W. O. Gardner,Caroline Dennant,Political
+William Cross,Caroline Dennant,Political
+Wm K Allen,Caroline Dennant,Political
+Henry Adams,Caroline Dennant,Social
+Jailor,Caroline Dennant,Social
+John L. McKee,Caroline Dennant,Social
+John L. McKee,Caroline Dennant,Social
+John L. McKee,Caroline Dennant,Social
+Josephine Lynch,Caroline Dennant,Social
+Raymond Lynch,Caroline Dennant,Social
+John L. McKee,Chesnut Street Presbyterian Church,Economic
+John. H Talbot,Commonwealth,Political
+L. A. Civill,Commonwealth,Legal
+James P. Chambers,Commonwealth,Political
+Caroline Dennant,Department of the Ohio,Military
+Caroline Dennant,Department of the Ohio,Military
+James R. Dupuy,J. H. Price,Legal
+John H. Talbot,Jacob S. Cave,Legal
+T. Jack Conn,Jacob S. Cave,Legal
+T. Jack Conn,Jacob S. Cave,Political
+T. Jack Conn,Jacob S. Cave,Social
+George W. Wharton,Jailor,Social
+Caroline Dennant,James F. Robinson,Political
+Caroline Dennant,James F. Robinson,Political
+Caroline Dennant,James F. Robinson,Political
+J H Price,James F. Robinson,Political
+J R Dupuy,James F. Robinson,Political
+John L. McKee,James F. Robinson,Political
+John L. McKee,James F. Robinson,Political
+P B Muir,James F. Robinson,Political
+Robert F. Baird,James F. Robinson,Political
+E P Neale,James P. Chambers,Legal
+John Sait,James P. Chambers,Legal
+Joseph Griffith,James P. Chambers,Legal
+L. A. Civill,James P. Chambers,Legal
+R H Snyder,James P. Chambers,Legal
+Samuel Ingrem,James P. Chambers,Legal
+Thomas Schorch,James P. Chambers,Legal
+W. O. Gardner,James P. Chambers,Legal
+Wm K Allen,James P. Chambers,Legal
+John L. McKee,James R. Dupuy,Social
+Caroline Dennant,Jefferson Circuit Court,Legal
+Caroline Dennant,Jefferson Circuit Court,Legal
+Caroline Dennant,Jefferson Circuit Court,Legal
+Caroline Dennant,Jefferson Circuit Court,Legal
+Caroline Dennant,Jefferson Circuit Court,Legal
+James R. Dupuy,Jefferson Circuit Court,Legal
+T. Jack Conn,John H. Talbot,Legal
+George W. Wharton,John L. McKee,Social
+Anne Levy,Josephine Lynch,Familial
+Anne Levy,Josephine Lynch,Familial
+John H. Talbot,Josephine Lynch,Legal
+Jacob S Cave,Josephine Lynch,Political
+Anne Levy,Josephine Lynch,Social
+Jacob S Cave,Josephine Lynch,Social
+Raymond Lynch,Louisville Journal,Economic
+Caroline Dennant,Mr. Dennent,Economic
+John L. McKee,Peter B. Muir,Social
+Caroline Dennant,police officer,Legal
+Caroline Dennant,police officer,Legal
+Josephine Lynch,Raymond Lynch,Familial
+Anne Levy,soldiers,Economic
+John G. Barret,Southern Bank of Kentucky,Economic
+A C Cross,Thomas E. Bramlette,Political
+Burton Farmer,Thomas E. Bramlette,Political
+Caroline Dennant,Thomas E. Bramlette,Political
+Caroline Dennant,Thomas E. Bramlette,Political
+Charles Junot,Thomas E. Bramlette,Political
+E P Neale,Thomas E. Bramlette,Political
+George W. Wharton,Thomas E. Bramlette,Political
+Georges Jonas,Thomas E. Bramlette,Political
+H C Thomas,Thomas E. Bramlette,Political
+Henry C Russell,Thomas E. Bramlette,Political
+J C Baird,Thomas E. Bramlette,Political
+John G Enlow,Thomas E. Bramlette,Political
+John G. Barret,Thomas E. Bramlette,Political
+John H Williams,Thomas E. Bramlette,Political
+John L. McKee,Thomas E. Bramlette,Political
+John Sait,Thomas E. Bramlette,Political
+Joseph Griffith,Thomas E. Bramlette,Political
+L. A. Civill,Thomas E. Bramlette,Political
+Phil Tomppert Jr,Thomas E. Bramlette,Political
+R H Snyder,Thomas E. Bramlette,Political
+Robt A Hamilton,Thomas E. Bramlette,Political
+Samuel Ingrem,Thomas E. Bramlette,Political
+Thomas Schorch,Thomas E. Bramlette,Political
+W. G. Reasor,Thomas E. Bramlette,Political
+W. O. Gardner,Thomas E. Bramlette,Political
+William Cross,Thomas E. Bramlette,Political
+Wm K Allen,Thomas E. Bramlette,Political
+Caroline Dennant,Willis Levy,Economic
+Caroline Dennant,Willis Levy,Economic
+Caroline Dennant,Willis Levy,Economic
+Josephine Lynch,Willis Levy,Familial
+John H. Talbot,Willis Levy,Legal
+Caroline Dennant,Willis Levy,Social
+John L. McKee,Willis Levy,Social
+Josephine Lynch,Willis Levy,Social
+Raymond Lynch,Willis Levy,Social
+Raymond Lynch,Willis Levy,Social
